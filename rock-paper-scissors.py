@@ -1,3 +1,11 @@
+'''
+    A program that lets you play the game
+    'Rock, Paper, Scissors'. Takes in either 
+    Rock, Paper, or Scissors as input, 
+    (String, case insensitive) and compares 
+    the input with the program's choice.
+'''
+
 def rps():
   #Inputs
   import random

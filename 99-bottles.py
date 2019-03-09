@@ -1,3 +1,10 @@
+''' 
+    Sings the children's song '99 
+    Bottles of beer on the wall'. 
+    Takes in an integer as an input, 
+    and counts down until zero.
+'''
+
 def sing(bottles):
   if bottles <= 0: return None
   n = bottles
